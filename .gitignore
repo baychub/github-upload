@@ -1,0 +1,16 @@
+# compiled source
+*.com
+*.class
+*.so
+
+# images
+*.jpg
+*.png
+*.jpeg
+
+# OS files
+.DS_Store
+.DS_Store?
+.Trashes
+Thumbs.db
+.Spotlight-V100
